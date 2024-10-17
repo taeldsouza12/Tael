@@ -1,24 +1,24 @@
 .banner {
     background: var(--branco);
-    color: var(--azul);
+    color: var(--preto);
     text-align: center;
     padding: 2.5em 2em;
 }
 
 .banner__titulo {
     font-size: 18px;
-    font-weight: 650;
+    font-weight: 850;
 }
 
 .banner__texto {
-    font-weight: 450;
+    font-weight: 650;
     margin: 1em 0;
 }
 
 .banner__pesquisa {
     background-color: transparent;
     border: 1px solid var(--preto);
-    color: var(--cinza);
+    color: var(--branco);
     border-radius: 24px;
     padding: 1em;
     width: 100%;
