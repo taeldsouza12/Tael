@@ -38,11 +38,11 @@
 .lista-menu__titulo,
 .lista-menu__item {
     padding: 1em;
-    background-color: var(--branco);
+    background-color: var(--preto);
 }
 
 .lista-menu__titulo {
-    color: var(--laranja);
+    color: var(--azul);
     font-weight: 700;
 }
 
